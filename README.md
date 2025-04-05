@@ -24,10 +24,12 @@ An AI-powered resume analyzer that extracts key skills from uploaded resumes and
 
 - **Frontend**: HTML, Tailwind CSS, JavaScript
 - **Backend**: Python, Flask
-- **PDF Parsing**: PyMuPDF
-- **NLP**: NLTK
+- **PDF Parsing**: SpaCy
+- **DataBase**: PostgreSQL
+- **Hosting**: Versel
 
 ---
 
 ## 📁 Folder Structure
+
 
