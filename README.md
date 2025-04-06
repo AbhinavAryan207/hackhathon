@@ -19,7 +19,7 @@ An AI-powered resume analyzer that extracts key skills from uploaded resumes and
 ![Screenshot](https://user-images.githubusercontent.com/your-image-url.png) 
 
 ---
-
+    
 ## 🛠️ Tech Stack
                   |
 
