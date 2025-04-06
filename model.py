@@ -1,7 +1,7 @@
 import psycopg2
 
 conn = psycopg2.connect(
-    host="localhost",
+    host="localhost", 
     database="resume_db",
     user="postgres",
     password="abhinav123",
