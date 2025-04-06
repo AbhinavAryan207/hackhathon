@@ -27,7 +27,7 @@ An AI-powered resume analyzer that extracts key skills from uploaded resumes and
 **Backend**     Flask                            
 **AI/NLP**      OpenAI GPT-4 / spaCy / Transformers 
 **Database**    PostgreSQL                       
-**Hosting**     Vercel (Frontend) & AWS (Backend) 
+**Hosting**     Vercel (Frontend) & Render (Backend) 
 
 ---
 
